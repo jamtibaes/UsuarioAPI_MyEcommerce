@@ -1,10 +1,10 @@
-package com.letscode.ecommerce.usuarioapi;
+package com.letscode.ecommerce.userapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EcommerceUsuarioApiApplicationTests {
+class EcommerceUserEntityApiApplicationTests {
 
     @Test
     void contextLoads() {

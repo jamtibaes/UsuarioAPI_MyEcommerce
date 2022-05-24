@@ -1,13 +1,13 @@
-package com.letscode.ecommerce.usuarioapi;
+package com.letscode.ecommerce.userapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EcommerceUsuarioApiApplication {
+public class EcommerceUserApiApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(EcommerceUsuarioApiApplication.class, args);
+        SpringApplication.run(EcommerceUserApiApplication.class, args);
     }
 
 }
